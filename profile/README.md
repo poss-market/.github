@@ -4,7 +4,7 @@
 Business receives reliable open source software that is maintained on a daily basis, features are constantly developed and they receive a support from open source creators
 
 #### Why?
-It's cheaper to pay a few (dozens / hundred / thousands) bucks each year for a library, tool, component, etc instead of build it on your own, maintain, test, take care of security updates, do customer support 
+It's cheaper to pay a few (dozens / hundreds / thousands) bucks each year for a library, tool, component, etc instead of build it on your own, maintain, test, take care of security updates, do customer support 
 
 ## 🧙 Yours (open source developer's) perspective: Goal #2 - Get paid to build, maintain and support your software 
 You as a developer make money by selling licenses to your open source software
